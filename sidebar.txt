@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[fsl:home|Door43 (fsl)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-fsl|d43-fsl repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-fsl/archive/master.zip|d43-fsl.zip]]
+
+**Recent Changes**
+{{changes>ns = fsl}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/fsl|Ethnologue data]]
+
